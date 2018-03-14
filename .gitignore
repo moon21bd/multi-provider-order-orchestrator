@@ -1,0 +1,11 @@
+Homestead.json
+Homestead.yaml
+.env
+/.vagrant/
+/.idea/
+app.zip
+vendor/
+composer.lock
+.agents
+.continue
+skills-lock.json
